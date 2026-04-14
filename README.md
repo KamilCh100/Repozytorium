@@ -13,3 +13,8 @@
 - git checkout -b KC
 - git branch
 - git add Kamil_Chromczak.txt
+
+![zdj1]("Zdj1.png")
+![zdj2]("Zdj2.png")
+![zdj3]("Zdj3.png")
+
